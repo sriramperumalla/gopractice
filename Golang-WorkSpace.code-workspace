@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name":  "DataStructuresInGo",
+			"path": "godatastructures"
+		},
+		{
+			"name": "GoHandsOn",
+			"path": "gohandson"
+		}
+		
+	],
+	"settings": {}
+}
